@@ -116,6 +116,10 @@ Free: 100G, Used: 50G (50%)
 
 ---
 
+## Project Reference
+
+This project is part of the [Roadmap.sh Server Stats project](https://roadmap.sh/projects/server-stats).
+
 ## License
 
 MIT License — feel free to use and modify!
